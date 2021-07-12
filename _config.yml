@@ -1,9 +1,9 @@
 ### your site title here
 
 title: Joonha JEON
-description: Researcher | Agenda Research | AI for everyone
+description: Researcher | Affiliation | AI for everyone
 
-baseurl: /blog #name of GitHub repository
+baseurl: #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
