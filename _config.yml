@@ -3,7 +3,7 @@
 title: Joonha JEON
 description: Researcher | Agenda Research | AI for everyone
 
-baseurl: #name of GitHub repository
+baseurl: /blog #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
 email: #
 
